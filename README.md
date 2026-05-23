@@ -2,7 +2,7 @@
 Welcome to my personal developer portfolio website.
 This portfolio showcases my projects, skills, achievements, and journey in software development, AI, and modern web technologies.
 🌐 Live Website
-anandu112-ai.github.io⁠�
+https://anandu112-ai.github.io/Portfolio/
 ✨ Features
 Modern luxury dark UI
 Fully responsive design
